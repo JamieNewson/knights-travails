@@ -5,7 +5,7 @@ if (process.env.NODE_ENV !== "production")
 
 function HelloWorld() {
   const title = document.createElement("h1");
-  title.innerText = "Hello World!";
+  title.innerText = "Knights Travails";
 
   return title;
 }
